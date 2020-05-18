@@ -778,3 +778,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 194.35.118.131 at 2020-05-18 17:31:15 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.3ms)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
